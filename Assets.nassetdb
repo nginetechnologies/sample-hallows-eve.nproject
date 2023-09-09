@@ -1,1 +1,18 @@
-{"0e7242e9-b19b-4fcd-4cfe-23618dc9ded6":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Hallows_EnviroSpecular.tex.nasset"},"45ff175a-7144-40d0-cd4c-fd1da9b7ce4c":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Hallows_Enviro.tex.nasset"},"483067a6-46ff-4b1e-b2bb-7d20088c75e4":{"assetTypeGuid":"01c2c136-57b4-4a69-b2af-3c2ea94c3f49","path":"Project.nproject","name":"Hallows Eve","thumbnail":"b874ddd8-c1cc-fa08-c990-a388deafd901"},"49f4b2d3-d1e9-427d-84e5-3f70496a3db4":{"assetTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","componentTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","path":"Assets/M_Hallows_Skybox.mtli.nasset","thumbnail":"8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"},"a6fefc36-8fec-4512-95ab-3402618d1468":{"assetTypeGuid":"807d69a9-56ec-4032-bb92-d081df336672","componentTypeGuid":"2a2bce0a-6314-481b-a5a0-7d01e1c00b35","path":"Assets/Hallows Eve.scene.nasset"},"b874ddd8-c1cc-fa08-c990-a388deafd901":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Thumbnail/Hallows_Thumb.tex.nasset"},"baaf4b52-1f4e-3e16-fbb8-8f1314ab6548":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Cubemaps/Hallows_EnviroDiffuse.tex.nasset"},"f9d34a59-9ae2-4ba4-6e2f-ea0031e77ef7":{"assetTypeGuid":"77b22fc4-d109-4dd3-a922-38388879fc90","path":"Assets.nassetdb"},"guid":"f9d34a59-9ae2-4ba4-6e2f-ea0031e77ef7"}
+{
+    "483067a6-46ff-4b1e-b2bb-7d20088c75e4": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Hallows Eve",
+        "thumbnail": "b874ddd8-c1cc-fa08-c990-a388deafd901"
+    },
+    "a6fefc36-8fec-4512-95ab-3402618d1468": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Hallows Eve.scene.nasset"
+    },
+    "f9d34a59-9ae2-4ba4-6e2f-ea0031e77ef7": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "f9d34a59-9ae2-4ba4-6e2f-ea0031e77ef7"
+}
