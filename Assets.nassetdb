@@ -293,6 +293,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Hallows_Eve.scene.nasset/Gravestone Flat Lid.mesh.nasset/Thumbnails/Gravestone Flat Lid.mesh.nasset.tex.nasset"
     },
+    "15dec5c3-561c-b74b-f77c-60894393e4df": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human Human.meshskin.nasset",
+        "dependencies": [
+            "301030a4-0bf6-e238-223f-09d749f8ce6f",
+            "f78d869a-2b2c-15c4-1738-3d279125f972",
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3"
+        ]
+    },
     "16210fba-6693-d7e1-95f6-322fa236124d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -545,6 +555,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "25ce46c4-20ca-438a-e413-34fbf78f4fa3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Mini Human.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "cbc2fe7b-7c3c-b413-76fd-6ca939f9c488"
+        ]
+    },
     "27c8cc05-4feb-3d4d-4516-40294b34a6e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -652,6 +670,18 @@
         ],
         "dependencies": [
             "2c8cf8ec-8bce-3f39-9054-4788eb45adef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "301030a4-0bf6-e238-223f-09d749f8ce6f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human Human.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -931,6 +961,14 @@
         "dependencies": [
             "2c8cf8ec-8bce-3f39-9054-4788eb45adef",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "41eecb07-491c-4a32-aeb8-e4bf73ca92fc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Air.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
     },
     "41f93f08-ca63-c96d-1e3b-a92139a52fea": {
@@ -2008,6 +2046,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a137d2ec-850b-9460-79ed-bafa15fc45c5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK_Mini_Human.scene.nasset",
+        "dependencies": [
+            "eb593b7b-816f-7125-4b45-b6752c76cb62"
+        ]
+    },
     "a16fbb06-1727-cfb3-dd06-191b769c8663": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
@@ -2335,9 +2381,25 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Hallows_EnviroDiffuse.tex.nasset"
     },
+    "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Run.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
+    },
     "bd88555a-f75d-bf2d-c87b-16fd2a0887eb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Foliage.mtli.nasset.tex.nasset"
+    },
+    "be0bce66-279a-4c2c-ae0b-5c28950a4bf6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Walk.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "be19528f-4851-9b6b-ce38-e84abc71c4b6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2501,6 +2563,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Metal.mtli.nasset.tex.nasset"
     },
+    "cbc2fe7b-7c3c-b413-76fd-6ca939f9c488": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Mini_Dungeon_D.tex.nasset"
+    },
     "cc0029ab-417f-f7c5-4abe-cd25749c67a4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2607,6 +2673,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d43d22f2-a02a-1c33-39ae-7aa1716f0d55": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d47b6347-605b-48a6-acc8-05a5281325a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Mini Human.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "eb593b7b-816f-7125-4b45-b6752c76cb62"
+        ]
+    },
     "d4b8cb4e-45ea-89f7-bf79-4b4d5d382f0b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2679,6 +2763,14 @@
             "b58d0542-4357-c72b-bb0b-c11cd077eac7",
             "099d7c91-61a7-18f2-eb52-37585e7fc87f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d84d31b9-25e5-44f6-8b5e-ca00741886b3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Idle.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
     },
     "d96d9326-7e8d-939f-cfa0-449d87ad273d": {
@@ -2960,6 +3052,24 @@
     "eb102b9c-9e0f-a3fe-e646-98030e236647": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Hallows_Eve.scene.nasset/Grave Border.mesh.nasset/Thumbnails/Grave Border.mesh.nasset.tex.nasset"
+    },
+    "eb593b7b-816f-7125-4b45-b6752c76cb62": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
+            "301030a4-0bf6-e238-223f-09d749f8ce6f",
+            "15dec5c3-561c-b74b-f77c-60894393e4df",
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+            "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+            "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
+        ]
     },
     "ede9f8bc-3db2-8e8c-d5fd-491ff25b9347": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
